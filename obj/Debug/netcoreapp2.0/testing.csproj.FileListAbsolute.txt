@@ -1,0 +1,11 @@
+/Users/greghenderson/Projects/testing/testing/bin/Debug/netcoreapp2.0/testing.deps.json
+/Users/greghenderson/Projects/testing/testing/bin/Debug/netcoreapp2.0/testing.runtimeconfig.json
+/Users/greghenderson/Projects/testing/testing/bin/Debug/netcoreapp2.0/testing.runtimeconfig.dev.json
+/Users/greghenderson/Projects/testing/testing/bin/Debug/netcoreapp2.0/testing.dll
+/Users/greghenderson/Projects/testing/testing/bin/Debug/netcoreapp2.0/testing.pdb
+/Users/greghenderson/Projects/testing/testing/obj/Debug/netcoreapp2.0/testing.csprojResolveAssemblyReference.cache
+/Users/greghenderson/Projects/testing/testing/obj/Debug/netcoreapp2.0/testing.csproj.CoreCompileInputs.cache
+/Users/greghenderson/Projects/testing/testing/obj/Debug/netcoreapp2.0/testing.AssemblyInfoInputs.cache
+/Users/greghenderson/Projects/testing/testing/obj/Debug/netcoreapp2.0/testing.AssemblyInfo.cs
+/Users/greghenderson/Projects/testing/testing/obj/Debug/netcoreapp2.0/testing.dll
+/Users/greghenderson/Projects/testing/testing/obj/Debug/netcoreapp2.0/testing.pdb
