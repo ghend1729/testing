@@ -13,6 +13,7 @@ namespace testing
             while (running)
             {
                 Console.WriteLine("What would you like to do?");
+                Console.WriteLine("testing testing testing");
                 response = Console.ReadLine();
 
                 switch (response)
